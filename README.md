@@ -9,5 +9,5 @@ Create a website load balanced between 3 EC2 instances managed by autoscaling gr
 #Executing the code
 * make changes to main.tf/variables in site folder
 * Run the following commands
-** terraform get site
-** terraform apply site
+    * terraform get site
+    * terraform apply site
